@@ -1,17 +1,22 @@
 # text-mining-eu-tourism
 Text mining analysis for EU tourism projects.
 
-![alt text](https://drive.google.com/file/d/1nkw-EKG7DRgNwblXhobwaMn0cGFHd886/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1nkw-EKG7DRgNwblXhobwaMn0cGFHd886)
+
 Term frequency
 
-![alt text](https://drive.google.com/file/d/1Jek3bKF7NJB_h0j_86dQCM0FeaVfYJYV/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1Jek3bKF7NJB_h0j_86dQCM0FeaVfYJYV)
+
 Word network with term association
 
-![alt text](https://drive.google.com/file/d/1OFuWfujpX5_gh5ct1VPPEy5Tq6eUMOEb/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1OFuWfujpX5_gh5ct1VPPEy5Tq6eUMOEb)
+
 Term correlation
 
-![alt text](https://drive.google.com/file/d/1A3_8wLLSu7oANAV9YoDHnt8gqlxAUd3K/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1A3_8wLLSu7oANAV9YoDHnt8gqlxAUd3K)
+
 Term co-occurrence
 
-![alt text](https://drive.google.com/file/d/13XQtfpgQky70ZkZF3z4VZe4OF5I7t454/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=13XQtfpgQky70ZkZF3z4VZe4OF5I7t454)
+
 Cluster analysis (k = 3)
